@@ -2,6 +2,7 @@
 Analyzed COVID-19 data of India using Python and its libraries to identify trends and patterns across different states. Calculated key metrices such as Recovered cases and Recovered Ratios, and created visualisations to compare state-wise performance. This project demonstrates skills in data analysis, and visualisation.
 
 🦠 COVID-19 India State-wise Data Analysis using Python
+
 📌 Project Overview
 
 This project performs an exploratory data analysis (EDA) on the COVID-19 India State-wise Dataset using Python. The objective is to analyze the spread of COVID-19 across different states and union territories by examining total cases, active cases, deaths, active ratio, and death ratio.
